@@ -14,5 +14,5 @@ The main result is in the notebook
 #### Loss Curve during Training
 ![loss_curve](DCGAN/images/loss.png)
 ### References
-1. [og]: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
+[og]: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 2. [DCGAN for classroom images](https://neuro.cs.ut.ee/wp-content/uploads/2018/02/DCGAN.pdf)

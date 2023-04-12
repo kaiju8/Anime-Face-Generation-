@@ -1,9 +1,10 @@
 # Anime-Face-Generation
-In this various models will be used to generate Anime Faces starting with GANs
+In this various models will be used to generate Anime Faces starting with GANs.<br>
 As of now DCGAN is done, will upload W-GAN soon.
 ## Dataset
-## DCGANs
-The notebook was run on Kaggle
+The Dataset for this was taken from [Anime Face Dataset](https://www.kaggle.com/datasets/splcher/animefacedataset)
+## DCGANs (In progess: A run with more Epochs is required)
+The notebook was run on Kaggle <br>
 Exact Architecure has been used in the model as mentioned in the paper [1.] , adding an layer to discriminator did improve the quality (visually) but any other hyperparameter tuning worsened the quality.
 ### Architecure
 ![architecure](DCGAN/images/dcgan_archi.png)

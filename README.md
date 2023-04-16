@@ -9,11 +9,11 @@ Exact Architecure has been used in the model as mentioned in the paper [1.] , ad
 ### Architecure
 ![architecure](DCGAN/images/dcgan_archi.png)
 ### Results
-The main result is in the notebook
+![dcgan_img](DCGAN/images/result.png)
 #### Interpolation between two Random Instances
-![interpolation](DCGAN/images/interpolation.png)
+![dcgan_inter](DCGAN/images/interpolation.png)
 #### Loss Curve during Training
-![loss_curve](DCGAN/images/loss.png)
+![dcgan_loss](DCGAN/images/loss.png)
 ### References
 1. [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 2. [DCGAN for classroom images](https://neuro.cs.ut.ee/wp-content/uploads/2018/02/DCGAN.pdf)

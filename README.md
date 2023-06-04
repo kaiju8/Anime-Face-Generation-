@@ -1,5 +1,5 @@
 # Anime-Face-Generation
-In this various models will be used to generate Anime Faces starting with GANs.<br>
+In this various models will be used to generate Anime Faces starting with Genrative Models.<br>
 As of now DCGAN is done, will upload W-GAN soon.
 ## Dataset
 The Dataset for this was taken from [Anime Face Dataset](https://www.kaggle.com/datasets/splcher/animefacedataset)
